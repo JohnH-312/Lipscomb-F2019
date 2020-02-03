@@ -1,0 +1,5 @@
+1. Symmetric and Asymmetric Key ALgorithms
+Sym- This uses only one key which needs to be shared among all the people who will end up receiving the message. 
+Asym- This rather uses a pair of public as well as private key. They are both used in both the process of encryption as well as decryption of messages used in communication. 
+
+2. I used OpenSteno, and it did not change the picture at all in any visible way.

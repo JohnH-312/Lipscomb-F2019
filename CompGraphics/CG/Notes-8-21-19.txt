@@ -1,0 +1,21 @@
+Frame buffer 
+
+RGB vs CMYK
+24-bit color ype of RGB
+8 bits for Red, Green and Blue (0-255) 
+
+coordiante system for pixels
+
+|
+|
+| y
+|
+|
+____________________
+          x
+say (1000, 500)
+difference of where the 0 is on the y axis
+
+Raster graphics: like a bit-map but more than one bit per pixels
+
+Vector graphics: collection of lines stored as 2 coordinate endpoints

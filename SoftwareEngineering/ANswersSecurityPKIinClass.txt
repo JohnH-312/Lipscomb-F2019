@@ -1,0 +1,13 @@
+Messaging apps:
+- WhatsApp, end to end encryption
+- Viber, end to end encryption and does not keep info in databases, and will not use it to 
+target adds
+- Signal, because it uses end-to-end encryption, along with it's own encyrption and protocol. 
+
+Phones:
+- BlackBerry KEY2, It runs Android 8.1, BlackBerry has show to provide quick monthly security 
+updates, and The DTEK app is designed to raise the user's awareness to security on the phone, 
+as it presents you with different options for security
+- Pixel 3XL, This phone has the Titan M security chip which keeps important info safe as well
+ as ensure your phone is not being tampered with by "bad actors"
+- Iphone XS Max, as it uses File-Based AES 256 

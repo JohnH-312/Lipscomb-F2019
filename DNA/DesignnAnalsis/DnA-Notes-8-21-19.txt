@@ -1,0 +1,60 @@
+gcd()
+60 24 -> 24, 12 -> 12, 0 = 12
+
+Sieve of Eratosthenes:
+ - remove all multiples of i, then move to next number and repeat
+
+for p <- 2 to n do A[p] <- p
+for p <- 2 to floor(root(n)) do
+    if A[p] != 0
+        j <- p*p
+            while j <=n do
+                A[j] <- 0
+                j <- j + p
+
+Algorithm Design and Analysis Process:
+    * Understand the problem
+    * Decide on: Computational means, exact vs approximate solving, algorithm techniques
+    * Design an algorithm
+    * Prove correctness
+    * Analyse the algorithm
+    * Code the Algorithm
+
+Types of problems:
+sorting
+searching
+string proccseing
+graph problems
+combinatorial problems 
+geometric problems
+numerical problems
+
+RAM random access machine
+
+Design an algorithm:
+ - understand what data structures are useful
+ - exact vs approximate algorithm
+ - Do your best and keep a good record of your work
+
+techniques:
+Brute force
+Greedy approach
+Divide and conquer...
+
+Prove correctness:
+- use a counterexample to show an algorithm failure
+- for approximate algorithm we need to prove the upper and lower bounds
+- loop invariant analysis induction
+
+Analyzing the algorithm:
+- Quality of an Algorithm
+    time and space efficiency
+    simplicity
+    generality
+
+Coding the algorithm (and testing)
+    Effiecent implementation is critcal
+    Evaluate it on large data, different data, real data, or simulation data
+    Version managment (github)
+
+

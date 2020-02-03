@@ -1,0 +1,33 @@
+Requirements Gathering
+ - Identify customers
+ - Write down Requirements
+ - Refine Requirements so they're precise enough for developers
+ - Use cases and "what if" analysis
+High-Level Design
+ - Design major subsystmes
+ - database
+ - classes
+ - user interface
+ - external interfaces
+Low-Level Design
+ - refine high level design until the pieces can be implemented
+Development
+ - write it
+Testing
+ - unit, system, regression
+ - bug fixing
+ - bug tracking
+ - more testing
+Deployment
+ - intalled for users
+ - strategies
+ - servers, networks, computers, training, support, parallel operatons,
+ data conversion and Mainteneance, bug fixes
+Mainteneance
+ - bug fixes
+ - changes
+ - additions and enhancements
+Wrap-Up
+ - gather info
+ - what went well
+ - wat went wrong
